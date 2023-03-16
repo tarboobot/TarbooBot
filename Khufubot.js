@@ -3104,7 +3104,7 @@ for (let i of anu) {
 await sleep(1500)
 let btn = [{
 urlButton: {
-displayText: 'YouTube 🍓',
+displayText: 'whatsApp 🍓',
 url: `${global.websitex}`
 }
 }, {
@@ -3145,7 +3145,7 @@ for (let yoi of anu) {
 await sleep(1500)
 let btn = [{
 urlButton: {
-displayText: 'YouTube 🍓',
+displayText: 'whatsApp 🍓',
 url: `${global.websitex}`
 }
 }, {
@@ -8685,12 +8685,12 @@ if (isBanChat) return reply(mess.banChat)
 khufuBotInc.sendMessage(from, { react: { text: `${global.reactmoji}`, key: m.key }})
 	                let btn = [{
                                 urlButton: {
-                                    displayText: 'YouTube 🍒',
+                                    displayText: 'whatsApp 🍒',
                                     url: `${websitex}`
                                 }
                             }, {
                                 callButton: {
-                                    displayText: 'ozx 💗',
+                                    displayText: '𝑻𝑨𝑹𝑩𝑶𝑶',
                                     url: `${botscript}`
                                 }
                             }, {
@@ -8722,8 +8722,8 @@ khufuBotInc.sendMessage(from, { react: { text: `${global.reactmoji}`, key: m.key
                         /////////khufuBotInc.send5ButMsg(m.chat, menulist, global.botname, btn)
                         } else if (setbot.templateDocument) {
                         let buttonmenu = [
-        	{ urlButton: { displayText: `قناتي 🍒`, url : `${websitex}` } },
-            { urlButton: { displayText: `قناه اوزكس 🌚`, url: `${botscript}` } },
+        	{ urlButton: { displayText: `شاتي 🍒`, url : `${websitex}` } },
+            { urlButton: { displayText: `شات التيربو  🌚`, url: `${botscript}` } },
             { quickReplyButton: { displayText: `اوامر 😜`, id: 'allmenu'} },
             { quickReplyButton: { displayText: `القائمه❤`, id: 'command'} },
             { quickReplyButton: { displayText: `المالك🤣`, id: 'owner'} }
@@ -8757,97 +8757,97 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 								"rows": [
 									{
 										"title": "اوامر كلها×፝֟͜×",
-										"description": "ᴹᴿ᭄𝐾𝐻𝑈𝐹𝑈 ×፝֟͜×",
+										"description": "❥𝑬𝐿♡𝑻𝑨𝑹𝑩𝑶𝑶»ᴮᴼᵀ𐇰",
 										"rowId": `${prefix}allmenu`
 									},
 									{
 										"title": "اوامر المالك ×፝֟͜×",
-										"description": "ᴹᴿ᭄𝐾𝐻𝑈𝐹𝑈 ×፝֟͜×",
+										"description": "❥𝑬𝐿♡𝑻𝑨𝑹𝑩𝑶𝑶»ᴮᴼᵀ𐇰",
 										"rowId": `${prefix}ownermenu`
 										},
 									{
 										"title": "اوامر جروب ×፝֟͜×",
-										"description": "ᴹᴿ᭄𝐾𝐻𝑈𝐹𝑈 ×፝֟͜×",
+										"description": "❥𝑬𝐿♡𝑻𝑨𝑹𝑩𝑶𝑶»ᴮᴼᵀ𐇰",
 										"rowId": `${prefix}groupmenu`
 										},
 										{
 										"title": "اوامر لوجو ×፝֟͜×",
-										"description": "ᴹᴿ᭄𝐾𝐻𝑈𝐹𝑈 ×፝֟͜×",
+										"description": "❥𝑬𝐿♡𝑻𝑨𝑹𝑩𝑶𝑶»ᴮᴼᵀ𐇰",
 										"rowId": `${prefix}makermenu`
 									},
 									{
 										"title": "اوامر اغاني ×፝֟͜×",
-										"description": "ᴹᴿ᭄𝐾𝐻𝑈𝐹𝑈 ×፝֟͜×",
+										"description": "❥𝑬𝐿♡𝑻𝑨𝑹𝑩𝑶𝑶»ᴮᴼᵀ𐇰",
 										"rowId": `${prefix}soundmenu`
 									},
 									{
 										"title": "اوامر تحمل ×፝֟͜×️",
-										"description": "ᴹᴿ᭄𝐾𝐻𝑈𝐹𝑈 ×፝֟͜×",
+										"description": "❥𝑬𝐿♡𝑻𝑨𝑹𝑩𝑶𝑶»ᴮᴼᵀ𐇰",
 										"rowId": `${prefix}downloadmenu`
 									},
 									{
 										"title": "اوامر ال استيكر×፝֟͜×",
-										"description": "ᴹᴿ᭄𝐾𝐻𝑈𝐹𝑈 ×፝֟͜×",
+										"description": "❥𝑬𝐿♡𝑻𝑨𝑹𝑩𝑶𝑶»ᴮᴼᵀ𐇰",
 										"rowId": `${prefix}stickermenu`
 									},
 									{
 										"title": "اوامر البحث ×፝֟͜×",
-										"description": "ᴹᴿ᭄𝐾𝐻𝑈𝐹𝑈 ×፝֟͜×",
+										"description": "❥𝑬𝐿♡𝑻𝑨𝑹𝑩𝑶𝑶»ᴮᴼᵀ𐇰",
 										"rowId": `${prefix}searchmenu`
 									},
 									{
 										"title": "اعدادات اوامر×፝֟͜×",
-										"description": "ᴹᴿ᭄𝐾𝐻𝑈𝐹𝑈 ×፝֟͜×",
+										"description": "❥𝑬𝐿♡𝑻𝑨𝑹𝑩𝑶𝑶»ᴮᴼᵀ𐇰",
 										"rowId": `${prefix}toolmenu`
 									},
 									{
 										"title": "اوامر صور ×፝֟͜×",
-										"description": "ᴹᴿ᭄𝐾𝐻𝑈𝐹𝑈 ×፝֟͜×",
+										"description": "❥𝑬𝐿♡𝑻𝑨𝑹𝑩𝑶𝑶»ᴮᴼᵀ𐇰",
 										"rowId": `${prefix}randomimagemenu`
 									},
 									{
 										"title": "تعديل علي صور ×፝֟͜×️",
-										"description": "ᴹᴿ᭄𝐾𝐻𝑈𝐹𝑈 ×፝֟͜×",
+										"description": "❥𝑬𝐿♡𝑻𝑨𝑹𝑩𝑶𝑶»ᴮᴼᵀ𐇰",
 										"rowId": `${prefix}imageeffectmenu`
 									},
 										{
 											"title": "اوامر ال انمي ×፝֟͜×",
-										"description": "ᴹᴿ᭄𝐾𝐻𝑈𝐹𝑈 ×፝֟͜×",
+										"description": "❥𝑬𝐿♡𝑻𝑨𝑹𝑩𝑶𝑶»ᴮᴼᵀ𐇰",
 										"rowId": `${prefix}animemenu`
 										},
 										{
 											"title": "اوامر ايمو ×፝֟͜×",
-										"description": "ᴹᴿ᭄𝐾𝐻𝑈𝐹𝑈 ×፝֟͜×",
+										"description": "❥𝑬𝐿♡𝑻𝑨𝑹𝑩𝑶𝑶»ᴮᴼᵀ𐇰",
 										"rowId": `${prefix}emotemenu`
 										},
 										{
 										"title": "نمي استيكر ×፝֟͜×️",
-										"description": "ᴹᴿ᭄𝐾𝐻𝑈𝐹𝑈 ×፝֟͜×",
+										"description": "❥𝑬𝐿♡𝑻𝑨𝑹𝑩𝑶𝑶»ᴮᴼᵀ𐇰",
 										"rowId": `${prefix}animestickermenu`
 									     },
 									{
 										"title": "شكس انمي ×፝֟͜×",
-										"description": "ᴹᴿ᭄𝐾𝐻𝑈𝐹𝑈 ×፝֟͜×",
+										"description": "❥𝑬𝐿♡𝑻𝑨𝑹𝑩𝑶𝑶»ᴮᴼᵀ𐇰",
 										"rowId": `${prefix}nsfwmenu`
 									     },
 										{
 											"title": "حجات مسليه ×፝֟͜×",
-										"description": "ᴹᴿ᭄𝐾𝐻𝑈𝐹𝑈 ×፝֟͜×",
+										"description": "❥𝑬𝐿♡𝑻𝑨𝑹𝑩𝑶𝑶»ᴮᴼᵀ𐇰",
 										"rowId": `${prefix}funmenu`
 										},
 										{
 										"title": "العاب ×፝֟͜×",
-										"description": "ᴹᴿ᭄𝐾𝐻𝑈𝐹𝑈 ×፝֟͜×",
+										"description": "❥𝑬𝐿♡𝑻𝑨𝑹𝑩𝑶𝑶»ᴮᴼᵀ𐇰",
 										"rowId": `${prefix}indomenu`
 									},
 										{
 											"title": "اوامر صوت و استيكر ×፝֟͜×️",
-										"description": "ᴹᴿ᭄𝐾𝐻𝑈𝐹𝑈 ×፝֟͜×",
+										"description": "❥𝑬𝐿♡𝑻𝑨𝑹𝑩𝑶𝑶»ᴮᴼᵀ𐇰",
 										"rowId": `${prefix}convertmenu`
 										},
 										{
 											"title": "اوامر جروب بل عربي ×፝֟͜×️",
-										"description": "ᴹᴿ᭄𝐾𝐻𝑈𝐹𝑈 ×፝֟͜×",
+										"description": "❥𝑬𝐿♡𝑻𝑨𝑹𝑩𝑶𝑶»ᴮᴼᵀ𐇰",
 										"rowId": `${prefix}group11`
 										}
 								]
@@ -8857,7 +8857,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 								"rows": [
 									{
 										"title": "كلم شخص غريب",
-										"description": " ᴹᴿ᭄𝐾𝐻𝑈𝐹𝑈 ×፝֟͜×",
+										"description": " ❥𝑬𝐿♡𝑻𝑨𝑹𝑩𝑶𝑶»ᴮᴼᵀ𐇰",
 										"rowId": `${prefix}anonymousmenu`
 									}
 								]
@@ -8867,7 +8867,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 								"rows": [
 									{
 										"title": "شكرا ل ️",
-										"description": "ᴹᴿ᭄𝐾𝐻𝑈𝐹𝑈 ×፝֟͜×!",
+										"description": "❥𝑬𝐿♡𝑻𝑨𝑹𝑩𝑶𝑶»𝒃𝒐𝒕⃤",
 										"rowId": `${prefix}tqtt`
 									}
 								]
@@ -9620,7 +9620,7 @@ await khufuBotInc.send5ButImg(from, `╔═══════✪「 OWNER 」
  
 {
 تمام بص ي غالي ونت بتكتب اي امر من دول متحط مسافه يعني اعدادات جروب هتكتبها  اعداداتجروب اكتبها عادي بس منغير مسافه بس كد ❤ 
-╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "قناتي 😚♥","url": `${websitex}`}},{"urlButton": {"displayText": "ozx 💗","url": `${botscript}`}},{"quickReplyButton": {"displayText": "معلومات اكتر💗","id": 'donate'}},{"quickReplyButton": {"displayText": "المالك💗","id": 'owner'}}] )
+╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "شاتي 😚♥","url": `${websitex}`}},{"urlButton": {"displayText": "𝑻𝑨𝑹𝑩𝑶𝑶","url": `${botscript}`}},{"quickReplyButton": {"displayText": "معلومات اكتر💗","id": 'donate'}},{"quickReplyButton": {"displayText": "المالك💗","id": 'owner'}}] )
 break
 case 'ownermenu':
 	   if (isBan) return reply(mess.ban)
@@ -9645,7 +9645,7 @@ await khufuBotInc.send5ButImg(from, `╔═══════✪「 OWNER 」
 ╠ ${prefix}bcloc [text]
 ╠ ${prefix}setppbot [image]
 ╠ ${prefix}setexif
-╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "قناتي 😚♥","url": `${websitex}`}},{"urlButton": {"displayText": "ozx 💗","url": `${botscript}`}},{"quickReplyButton": {"displayText": "معلومات اكتر 💗","id": 'donate'}},{"quickReplyButton": {"displayText": "المالك💗","id": 'owner'}}] )
+╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "شاتي 😚♥","url": `${websitex}`}},{"urlButton": {"displayText": "𝑻𝑨𝑹𝑩𝑶𝑶","url": `${botscript}`}},{"quickReplyButton": {"displayText": "معلومات اكتر 💗","id": 'donate'}},{"quickReplyButton": {"displayText": "المالك💗","id": 'owner'}}] )
 break
 case 'groupmenu':
 	   if (isBan) return reply(mess.ban)
@@ -9691,7 +9691,7 @@ await khufuBotInc.send5ButImg(from, `╔═══════✪「 GROUP 」
 ╠${prefix}upvote
 ╠${prefix}checkvote
 ╠${prefix}delvote
-╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "قناتي 😚♥","url": `${websitex}`}},{"urlButton": {"displayText": "ozx 💗","url": `${botscript}`}},{"quickReplyButton": {"displayText": "معلومات اكتر 💗","id": 'donate'}},{"quickReplyButton": {"displayText": "المالك💗","id": 'owner'}}] )
+╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "شاتي 😚♥","url": `${websitex}`}},{"urlButton": {"displayText": "𝑻𝑨𝑹𝑩𝑶𝑶","url": `${botscript}`}},{"quickReplyButton": {"displayText": "معلومات اكتر 💗","id": 'donate'}},{"quickReplyButton": {"displayText": "المالك💗","id": 'owner'}}] )
 break
 case 'rpgmenu':
 	   if (isBan) return reply(mess.ban)
@@ -9709,7 +9709,7 @@ await khufuBotInc.send5ButImg(from, `╔═══════✪「 RPG 」
 ╠${prefix}profile
 ╠${prefix}inventory
 ╠${prefix}leaderboard
-╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "قناتي 😚♥","url": `${websitex}`}},{"urlButton": {"displayText": "ozx 💗","url": `${botscript}`}},{"quickReplyButton": {"displayText": "معلومات اكتر💗","id": 'donate'}},{"quickReplyButton": {"displayText": "المالك💗","id": 'owner'}}] )
+╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "شاتي 😚♥","url": `${websitex}`}},{"urlButton": {"displayText": "𝑻𝑨𝑹𝑩𝑶𝑶","url": `${botscript}`}},{"quickReplyButton": {"displayText": "معلومات اكتر💗","id": 'donate'}},{"quickReplyButton": {"displayText": "المالك💗","id": 'owner'}}] )
 break
 case 'makermenu':
 	   if (isBan) return reply(mess.ban)
@@ -9823,7 +9823,7 @@ await khufuBotInc.send5ButImg(from, `╔═══════✪「 MAKER 」
 ╠ ${prefix}halloween
 ╠ ${prefix}watercolor
 ╠ ${prefix}classic
-╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "قناتي 😚♥","url": `${websitex}`}},{"urlButton": {"displayText": "ozx 💗","url": `${botscript}`}},{"quickReplyButton": {"displayText": "معلومات اكتر💗","id": 'donate'}},{"quickReplyButton": {"displayText": "المالك💗","id": 'owner'}}] )
+╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "شاتي 😚♥","url": `${websitex}`}},{"urlButton": {"displayText": "𝑻𝑨𝑹𝑩𝑶𝑶","url": `${botscript}`}},{"quickReplyButton": {"displayText": "معلومات اكتر💗","id": 'donate'}},{"quickReplyButton": {"displayText": "المالك💗","id": 'owner'}}] )
 break
 case 'downloadmenu':
 	   if (isBan) return reply(mess.ban)
@@ -9850,7 +9850,7 @@ await khufuBotInc.send5ButImg(from, `╔═══════✪「 DOWNLOAD 」
 ╠${prefix}gitclone [repo link]
 ╠${prefix}soundcloud [url]
 ╠${prefix}zippyshare [url]
-╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "قناتي 😚♥","url": `${websitex}`}},{"urlButton": {"displayText": "ozx 💗","url": `${botscript}`}},{"quickReplyButton": {"displayText": "معلومات اكتر💗","id": 'donate'}},{"quickReplyButton": {"displayText": "المالك💗","id": 'owner'}}] )
+╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "شاتي 😚♥","url": `${websitex}`}},{"urlButton": {"displayText": "𝑻𝑨𝑹𝑩𝑶𝑶","url": `${botscript}`}},{"quickReplyButton": {"displayText": "معلومات اكتر💗","id": 'donate'}},{"quickReplyButton": {"displayText": "المالك💗","id": 'owner'}}] )
 break
 case 'searchmenu':
 	   if (isBan) return reply(mess.ban)
@@ -9882,7 +9882,7 @@ await khufuBotInc.send5ButImg(from, `╔═══════✪「 SEARCH 」
 ╠${prefix}wattpad [query]
 ╠ ${prefix}mcserver [ip|port]
 ╠${prefix}drakor [query]
-╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "قناتي 😚♥","url": `${websitex}`}},{"urlButton": {"displayText": "ozx 💗","url": `${botscript}`}},{"quickReplyButton": {"displayText": "معلومات اكتر💗","id": 'donate'}},{"quickReplyButton": {"displayText": "المالك💗","id": 'owner'}}] )
+╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "شاتي 😚♥","url": `${websitex}`}},{"urlButton": {"displayText": "𝑻𝑨𝑹𝑩𝑶𝑶","url": `${botscript}`}},{"quickReplyButton": {"displayText": "معلومات اكتر💗","id": 'donate'}},{"quickReplyButton": {"displayText": "المالك💗","id": 'owner'}}] )
 break
 case 'convertmenu':
 	   if (isBan) return reply(mess.ban)
@@ -9917,7 +9917,7 @@ await khufuBotInc.send5ButImg(from, `╔═══════✪「 CONVERT 」
 ╠${prefix}robot [reply aud]
 ╠${prefix}slow [reply aud]
 ╠${prefix}squirrel [reply aud]
-╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "قناتي 😚♥","url": `${websitex}`}},{"urlButton": {"displayText": "ozx 💗","url": `${botscript}`}},{"quickReplyButton": {"displayText": "معلومات اكتر💗","id": 'donate'}},{"quickReplyButton": {"displayText": "المالك💗","id": 'owner'}}] )
+╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "شاتي 😚♥","url": `${websitex}`}},{"urlButton": {"displayText": "𝑻𝑨𝑹𝑩𝑶𝑶","url": `${botscript}`}},{"quickReplyButton": {"displayText": "معلومات اكتر💗","id": 'donate'}},{"quickReplyButton": {"displayText": "المالك💗","id": 'owner'}}] )
 break
 case 'randomimagemenu':
 	   if (isBan) return reply(mess.ban)
@@ -9936,7 +9936,7 @@ await khufuBotInc.send5ButImg(from, `╔═══════✪「 RANDOM IMG �
 ╠${prefix}wallcode
 ╠${prefix}animewall [query]
 ╠${prefix}animewall2 [query]
-╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "قناتي 😚♥","url": `${websitex}`}},{"urlButton": {"displayText": "ozx 💗","url": `${botscript}`}},{"quickReplyButton": {"displayText": "معلومات اكتر💗","id": 'donate'}},{"quickReplyButton": {"displayText": "المالك💗","id": 'owner'}}] )
+╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "شاتي 😚♥","url": `${websitex}`}},{"urlButton": {"displayText": "𝑻𝑨𝑹𝑩𝑶𝑶","url": `${botscript}`}},{"quickReplyButton": {"displayText": "معلومات اكتر💗","id": 'donate'}},{"quickReplyButton": {"displayText": "المالك💗","id": 'owner'}}] )
 break
 
 case 'emotemenu':
@@ -9956,7 +9956,7 @@ await khufuBotInc.send5ButImg(from, `╔═══════✪「 EMOTE 」
 ╠${prefix}googleemoji
 ╠${prefix}pediaemoji
 ╠${prefix}microsoftemoji
-╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "قناتي 😚♥","url": `${websitex}`}},{"urlButton": {"displayText": "ozx 💗","url": `${botscript}`}},{"quickReplyButton": {"displayText": "معلومات اكتر💗","id": 'donate'}},{"quickReplyButton": {"displayText": "المالك💗","id": 'owner'}}] )
+╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "شاتي 😚♥","url": `${websitex}`}},{"urlButton": {"displayText": "𝑻𝑨𝑹𝑩𝑶𝑶","url": `${botscript}`}},{"quickReplyButton": {"displayText": "معلومات اكتر💗","id": 'donate'}},{"quickReplyButton": {"displayText": "المالك💗","id": 'owner'}}] )
 break
 case 'imageeffectmenu':
 	   if (isBan) return reply(mess.ban)
@@ -9977,7 +9977,7 @@ await khufuBotInc.send5ButImg(from, `╔═════✪「 IMG EFFECT 」
 ╠${prefix}beautifuleffect
 ╠${prefix}deleteeffect
 ╠${prefix}pixelate
-╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "قناتي 😚♥","url": `${websitex}`}},{"urlButton": {"displayText": "ozx 💗","url": `${botscript}`}},{"quickReplyButton": {"displayText": "معلومات اكتر💗","id": 'donate'}},{"quickReplyButton": {"displayText": "المالك💗","id": 'owner'}}] )
+╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "شاتي 😚♥","url": `${websitex}`}},{"urlButton": {"displayText": "𝑻𝑨𝑹𝑩𝑶𝑶","url": `${botscript}`}},{"quickReplyButton": {"displayText": "معلومات اكتر💗","id": 'donate'}},{"quickReplyButton": {"displayText": "المالك💗","id": 'owner'}}] )
 break
 case 'animemenu':
 	   if (isBan) return reply(mess.ban)
@@ -10031,7 +10031,7 @@ await khufuBotInc.send5ButImg(from, `╔═══════✪「 ANIME 」
 ╠${prefix}megumin2
 ╠${prefix}loli
 ╠${prefix}couplepp
-╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "قناتي 😚♥","url": `${websitex}`}},{"urlButton": {"displayText": "ozx 💗","url": `${botscript}`}},{"quickReplyButton": {"displayText": "معلومات اكتر💗","id": 'donate'}},{"quickReplyButton": {"displayText": "المالك💗","id": 'owner'}}] )
+╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "شاتي 😚♥","url": `${websitex}`}},{"urlButton": {"displayText": "𝑻𝑨𝑹𝑩𝑶𝑶","url": `${botscript}`}},{"quickReplyButton": {"displayText": "معلومات اكتر💗","id": 'donate'}},{"quickReplyButton": {"displayText": "المالك💗","id": 'owner'}}] )
 break
 case 'stickermenu':
 	   if (isBan) return reply(mess.ban)
@@ -10045,7 +10045,7 @@ await khufuBotInc.send5ButImg(from, `╔═══════✪「 STICKER 」
 ╠ ${prefix}ttp
 ╠ ${prefix}doge
 ╠ ${prefix}lovesticker
-╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "قناتي 😚♥","url": `${websitex}`}},{"urlButton": {"displayText": "ozx 💗","url": `${botscript}`}},{"quickReplyButton": {"displayText": "معلومات اكتر💗","id": 'donate'}},{"quickReplyButton": {"displayText": "المالك💗","id": 'owner'}}] )
+╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "شاتي 😚♥","url": `${websitex}`}},{"urlButton": {"displayText": "𝑻𝑨𝑹𝑩𝑶𝑶","url": `${botscript}`}},{"quickReplyButton": {"displayText": "معلومات اكتر💗","id": 'donate'}},{"quickReplyButton": {"displayText": "المالك💗","id": 'owner'}}] )
 break
 case 'animestickermenu':
 	   if (isBan) return reply(mess.ban)
@@ -10081,7 +10081,7 @@ await khufuBotInc.send5ButImg(from, `╔═══════✪「 ANIME STICKE
 ╠${prefix}cringe
 ╠${prefix}neko
 ╠${prefix}gura
-╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "قناتي 😚♥","url": `${websitex}`}},{"urlButton": {"displayText": "ozx 💗","url": `${botscript}`}},{"quickReplyButton": {"displayText": "معلومات اكتر💗","id": 'donate'}},{"quickReplyButton": {"displayText": "المالك💗","id": 'owner'}}] )
+╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "شاتي 😚♥","url": `${websitex}`}},{"urlButton": {"displayText": "𝑻𝑨𝑹𝑩𝑶𝑶","url": `${botscript}`}},{"quickReplyButton": {"displayText": "معلومات اكتر💗","id": 'donate'}},{"quickReplyButton": {"displayText": "المالك💗","id": 'owner'}}] )
 break
 case 'nsfwmenu':
 	   if (isBan) return reply(mess.ban)
@@ -10113,7 +10113,7 @@ await khufuBotInc.send5ButImg(from, `╔═══════✪「 NSFW 」
 ╠${prefix}spank
 ╠${prefix}hneko
 ╠${prefix}nwaifu
-╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "قناتي 😚♥","url": `${websitex}`}},{"urlButton": {"displayText": "ozx 💗","url": `${botscript}`}},{"quickReplyButton": {"displayText": "معلومات اكتر💗","id": 'donate'}},{"quickReplyButton": {"displayText": "المالك💗","id": 'owner'}}] )
+╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "شاتي 😚♥","url": `${websitex}`}},{"urlButton": {"displayText": "𝑻𝑨𝑹𝑩𝑶𝑶","url": `${botscript}`}},{"quickReplyButton": {"displayText": "معلومات اكتر💗","id": 'donate'}},{"quickReplyButton": {"displayText": "المالك💗","id": 'owner'}}] )
 break
 case 'funmenu':
 	   if (isBan) return reply(mess.ban)
@@ -10184,7 +10184,7 @@ await khufuBotInc.send5ButImg(from, `╔═══════✪「 Fun 」
 ╠ ${prefix}playboy
 ╠ ${prefix}fuckgirl
 ╠ ${prefix}playgirl
-╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "قناتي 😚♥","url": `${websitex}`}},{"urlButton": {"displayText": "ozx 💗","url": `${botscript}`}},{"quickReplyButton": {"displayText": "معلومات اكتر💗","id": 'donate'}},{"quickReplyButton": {"displayText": "المالك💗","id": 'owner'}}] )
+╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "شاتي 😚♥","url": `${websitex}`}},{"urlButton": {"displayText": "𝑻𝑨𝑹𝑩𝑶𝑶","url": `${botscript}`}},{"quickReplyButton": {"displayText": "معلومات اكتر💗","id": 'donate'}},{"quickReplyButton": {"displayText": "المالك💗","id": 'owner'}}] )
 break
 case 'soundmenu':
 	   if (isBan) return reply(mess.ban)
@@ -10352,7 +10352,7 @@ await khufuBotInc.send5ButImg(from, `╔═══════✪「 Sound 」
 ╠ ${prefix}sound159
 ╠ ${prefix}sound160
 ╠ ${prefix}sound161
-╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "قناتي 😚♥","url": `${websitex}`}},{"urlButton": {"displayText": "ozx 💗","url": `${botscript}`}},{"quickReplyButton": {"displayText": "معلومات اكتر💗","id": 'donate'}},{"quickReplyButton": {"displayText": "المالك💗","id": 'owner'}}] )
+╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "شاتي 😚♥","url": `${websitex}`}},{"urlButton": {"displayText": "𝑻𝑨𝑹𝑩𝑶𝑶","url": `${botscript}`}},{"quickReplyButton": {"displayText": "معلومات اكتر💗","id": 'donate'}},{"quickReplyButton": {"displayText": "المالك💗","id": 'owner'}}] )
 break
 case 'gamemenu':
 	   if (isBan) return reply(mess.ban)
@@ -10366,7 +10366,7 @@ await khufuBotInc.send5ButImg(from, `╔═══════✪「 GAME 」
 ╠ ${prefix}guess [option]
 ╠ ${prefix}math [mode]
 ╠ ${prefix}suitpvp [tag]
-╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "قناتي 😚♥","url": `${websitex}`}},{"urlButton": {"displayText": "ozx 💗","url": `${botscript}`}},{"quickReplyButton": {"displayText": "معلومات اكتر💗","id": 'donate'}},{"quickReplyButton": {"displayText": "المالك💗","id": 'owner'}}] )
+╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "شاتي 😚♥","url": `${websitex}`}},{"urlButton": {"displayText": "𝑻𝑨𝑹𝑩𝑶𝑶","url": `${botscript}`}},{"quickReplyButton": {"displayText": "معلومات اكتر💗","id": 'donate'}},{"quickReplyButton": {"displayText": "المالك💗","id": 'owner'}}] )
 break
 case 'anonymousmenu':
 	   if (isBan) return reply(mess.ban)
@@ -10377,7 +10377,7 @@ await khufuBotInc.send5ButImg(from, `╔═══✪「 ANONYMOUS 」
 ╠${prefix}start
 ╠${prefix}next
 ╠${prefix}leave
-╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "قناتي 😚♥","url": `${websitex}`}},{"urlButton": {"displayText": "ozx 💗","url": `${botscript}`}},{"quickReplyButton": {"displayText": "معلومات اكتر💗","id": 'donate'}},{"quickReplyButton": {"displayText": "المالك💗","id": 'owner'}}] )
+╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "شاتي 😚♥","url": `${websitex}`}},{"urlButton": {"displayText": "𝑻𝑨𝑹𝑩𝑶𝑶","url": `${botscript}`}},{"quickReplyButton": {"displayText": "معلومات اكتر💗","id": 'donate'}},{"quickReplyButton": {"displayText": "المالك💗","id": 'owner'}}] )
 break
 case 'toolmenu':
 	   if (isBan) return reply(mess.ban)
@@ -10387,7 +10387,7 @@ await khufuBotInc.send5ButImg(from, `╔═══════✪「 TOOL 」
 ╠ ${prefix}translate [text]
 ╠ ${prefix}fliptext [text]
 ╠ ${prefix}toletter [number]
-╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "قناتي 😚♥","url": `${websitex}`}},{"urlButton": {"displayText": "ozx 💗","url": `${botscript}`}},{"quickReplyButton": {"displayText": "معلومات اكتر💗","id": 'donate'}},{"quickReplyButton": {"displayText": "المالك💗","id": 'owner'}}] )
+╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "شاتي 😚♥","url": `${websitex}`}},{"urlButton": {"displayText": "𝑻𝑨𝑹𝑩𝑶𝑶","url": `${botscript}`}},{"quickReplyButton": {"displayText": "معلومات اكتر💗","id": 'donate'}},{"quickReplyButton": {"displayText": "المالك💗","id": 'owner'}}] )
 break
 case 'databasemenu':
 	   if (isBan) return reply(mess.ban)
@@ -10402,7 +10402,7 @@ await khufuBotInc.send5ButImg(from, `╔═══✪「 DATABASE 」
 ╠ ${prefix}listmsg
 ╠ ${prefix}getmsg
 ╠ ${prefix}delmsg
-╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "قناتي 😚♥","url": `${websitex}`}},{"urlButton": {"displayText": "ozx 💗","url": `${botscript}`}},{"quickReplyButton": {"displayText": "معلومات اكتر💗","id": 'donate'}},{"quickReplyButton": {"displayText": "المالك💗","id": 'owner'}}] )
+╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "شاتي 😚♥","url": `${websitex}`}},{"urlButton": {"displayText": "𝑻𝑨𝑹𝑩𝑶𝑶","url": `${botscript}`}},{"quickReplyButton": {"displayText": "معلومات اكتر💗","id": 'donate'}},{"quickReplyButton": {"displayText": "المالك💗","id": 'owner'}}] )
 break
 case 'indomenu':
 	   if (isBan) return reply(mess.ban)
@@ -10433,7 +10433,7 @@ await khufuBotInc.send5ButImg(from, `╔═══════✪「 INDO 」
 ╠${prefix}covidindo
 ╠${prefix}earthquake
 ╠${prefix}tvschedule
-╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "قناتي 😚♥","url": `${websitex}`}},{"urlButton": {"displayText": "ozx 💗","url": `${botscript}`}},{"quickReplyButton": {"displayText": "معلومات اكتر💗","id": 'donate'}},{"quickReplyButton": {"displayText": "المالك💗","id": 'owner'}}] )
+╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "شاتي 😚♥","url": `${websitex}`}},{"urlButton": {"displayText": "𝑻𝑨𝑹𝑩𝑶𝑶","url": `${botscript}`}},{"quickReplyButton": {"displayText": "معلومات اكتر💗","id": 'donate'}},{"quickReplyButton": {"displayText": "المالك💗","id": 'owner'}}] )
 break
 case 'group11':
 	   if (isBan) return reply(mess.ban)
@@ -10457,7 +10457,7 @@ await khufuBotInc.send5ButImg(from, `╔═══════✪「 جروب 」
  
 {
 تمام بص ي غالي ونت بتكتب اي امر من دول متحط مسافه يعني اعدادات جروب هتكتبها  اعداداتجروب اكتبها عادي بس منغير مسافه بس كد ❤ 
-╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "قناتي 😚♥","url": `${websitex}`}},{"urlButton": {"displayText": "ozx 💗","url": `${botscript}`}},{"quickReplyButton": {"displayText": "معلومات اكتر💗","id": 'donate'}},{"quickReplyButton": {"displayText": "المالك💗","id": 'owner'}}] )
+╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "شاتي 😚♥","url": `${websitex}`}},{"urlButton": {"displayText": "𝑻𝑨𝑹𝑩𝑶𝑶","url": `${botscript}`}},{"quickReplyButton": {"displayText": "معلومات اكتر💗","id": 'donate'}},{"quickReplyButton": {"displayText": "المالك💗","id": 'owner'}}] )
 break
 case 'شتايم':
 	   if (isBan) return reply(mess.ban)
@@ -10483,7 +10483,7 @@ await khufuBotInc.send5ButImg(from, `╔═══════✪「 شتايم �
 ╠ ${prefix}مين انت يعني
 ╠ ${prefix}مين انت
 ╠ ${prefix}هنيكك
-╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "قناتي 😚♥","url": `${websitex}`}},{"urlButton": {"displayText": "ozx 💗","url": `${botscript}`}},{"quickReplyButton": {"displayText": "معلومات اكتر💗","id": 'donate'}},{"quickReplyButton": {"displayText": "المالك💗","id": 'owner'}}] )
+╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "شاتي 😚♥","url": `${websitex}`}},{"urlButton": {"displayText": "𝑻𝑨𝑹𝑩𝑶𝑶","url": `${botscript}`}},{"quickReplyButton": {"displayText": "معلومات اكتر💗","id": 'donate'}},{"quickReplyButton": {"displayText": "المالك💗","id": 'owner'}}] )
 break
 case 'tqtt': 
 	   if (isBan) return reply(mess.ban)
@@ -10500,19 +10500,19 @@ reply(`شكرا لي استخدامك البوت  نتمني ان يكون ال�
 
  https://wa.me/+201121968769
 
-قناه اوزكس يوتيوب :  
+شات التيربو يروحي :  
 
- https://youtube.com/channel/UCB3Z3phhszGj8FBdaJmIdJQ
+ https://wa.me/+201200339757‬‏
 
-قناه خوفو يوتيوب :  
+شات التيربو يقلبي :  
 
- https://youtube.com/channel/UCaWoQPfLiIY4dDp3WeWm7oA
+ https://wa.me/+201200339757‬‏
 
 جروب لتجربه البوت و حل اي مشكله تظهر معاك في البوت ومساعدتك علي فهم البوت :  
 
-https://chat.whatsapp.com/F4dGv48uhUc0pQoZb58jiB 
+https://chat.whatsapp.com/EaLyCTdVybUHulCkQntoJH 
 
- نتمني ان تكون اشتركت في قناتنا وانضممت لنا في جروب الواتس اب وشكرا💗`)
+ نتمني ان تكون انضممت لنا في جروب الواتس اب وشكرا💗`)
 break
             default:
                 if (budy.startsWith('=>')) {
